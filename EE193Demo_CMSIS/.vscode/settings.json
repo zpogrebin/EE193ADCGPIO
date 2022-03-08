@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "stm32wlxx.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/zephyr"
+}
