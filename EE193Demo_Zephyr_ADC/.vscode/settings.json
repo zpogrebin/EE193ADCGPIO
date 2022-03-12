@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "stm32wlxx.h": "c",
+        "*.tcc": "c",
+        "gpio.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/zephyr"
+}
